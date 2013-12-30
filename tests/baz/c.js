@@ -1,0 +1,1 @@
+exports.file = 'baz/c';

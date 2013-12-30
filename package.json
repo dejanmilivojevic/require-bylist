@@ -1,0 +1,16 @@
+{
+  "name": "require-bylist",
+  "version": "0.0.1",
+  "description": "Given an array of paths find required file by searching directories from first to last.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/all.js"
+  },
+  "author": "Dejan Milivojevic",
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "~0.4.6"
+  },
+  "dependencies": {
+  }
+}
